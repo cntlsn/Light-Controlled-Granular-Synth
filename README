@@ -1,0 +1,25 @@
+Light Controlled Granular Synth (Make Noise With The New Arduino Kit!)
+
+This code is part of a project called 'Make Noise With The New Arduino Kit!'
+
+You can see the full video here: http://www.youtube.com/watch?v=h7DOBV43UPQ
+
+We were supposed to write a review for the new Arduino Starter Kit, but we did a project instead, so people can actually enjoy their kit!
+
+We started from two of the projects you can find in the book that comes with the kit, Light Theremin (http://youtu.be/57S3dylfw3I) and Crystal Ball (http://youtu.be/TirVG6tmTnQ), and hacked an existing project called The Arduino Synthesizer (http://www.instructables.com/id/The-Arduino-Synthesizer/ - based on Auduino)
+
+So we created a Light Controlled Granular Synth which features:
+
+two oscillators
+two LDRs to control the pitch for each oscillator
+two potentiometers to control the decay for each oscillator
+one LDR to control the grains repetition frequency
+one LCD display
+one button to choose from different modes and scales
+We only used components that you can find into the Arduino Starter Kit (except for a speaker) so everyone can easily replicate the project.
+
+Into the repo you can find the Arduino code and the Fritzing file for the circuit.
+
+Have fun and make some noise!
+
+by Alessandro Contini + Alberto Massa (Dec 2012)
